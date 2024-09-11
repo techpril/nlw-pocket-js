@@ -1,0 +1,28 @@
+# Ignorar arquivos de configuração e dependências locais
+node_modules/
+.env
+
+# Ignorar logs
+*.log
+logs/
+npm-debug.log*
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar diretórios de build
+/dist/
+/build/
+
+# Ignorar arquivos temporários do editor
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+.idea/
+.vscode/
+
+# Ignorar arquivos de cache
+.cache/
