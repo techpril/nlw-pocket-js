@@ -1,10 +1,8 @@
-# Nome do Projeto
+# In Orbit
 
-Uma breve descrição do que o projeto faz e sua finalidade.
+Um aplicativo para gerenciar e marcar as metas completas
 
 ## Instalação
-
-Instruções de como instalar e configurar o projeto localmente. Por exemplo:
 
 ```bash
 # Clone o repositório
